@@ -19,7 +19,7 @@ MATLAB コードをスパコン上で多数並列実行する際、MATLAB の起
 
 ### 解決策
 
-MATLAB コードをコンパイルし、`matlab -nodesktop -r "magicsquare 4"` の代わりに、`./magicsquare 4` のように実行できる形式にすることで、起動時間を削減し、全体の処理時間を短縮します。
+MATLAB コードをコンパイルし、`matlab -nodesktop -r "magicsquare 4"` の代わりに、`./magicsquare 4` のように実行できる形式にすることで、起動時間を削減し、全体の処理時間を短縮を検討します。
 
 ## 参考文献
 
